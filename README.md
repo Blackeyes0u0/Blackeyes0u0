@@ -1,5 +1,6 @@
 ### Hi Machine Learning Engineer 신중현입니다!👋
 
+<!--
 >#### Repository 설명
 
  -  Blackeyes0u0-paper-review : 현재 진행중인 논문 스터디들
@@ -13,7 +14,7 @@
 |테스트1|테스트2|
 |테스트1|테스트2|
 
-<!--
+
 **Blackeyes0u0/Blackeyes0u0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
