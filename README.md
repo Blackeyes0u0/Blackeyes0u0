@@ -1,6 +1,6 @@
 ### Hi Machine Learning Engineer 신중현입니다!👋
 
-####> Repository 설명
+>#### Repository 설명
 
  -  Blackeyes0u0-paper-review : 현재 진행중인 논문 스터디들
  -  VectorUniverse : 현재 진행중인 CLIP에 LoRA, SimCLR, SimCSE 등을 적용한 유트브 알고리즘 프로젝트
