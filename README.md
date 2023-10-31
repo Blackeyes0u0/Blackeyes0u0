@@ -8,6 +8,11 @@
  -  level3_cv_finalproject-cv-14 : 얼굴의 임베딩을 추출해서 원하는 사람의 사진을 찾아주는 서비스
  -  LLM-PaperReview : LLM 논문 스터디 
 
+|논문리뷰 스터디|프로젝트|
+|------|---|
+|테스트1|테스트2|
+|테스트1|테스트2|
+
 <!--
 **Blackeyes0u0/Blackeyes0u0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
